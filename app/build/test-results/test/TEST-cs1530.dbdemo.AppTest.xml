@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1530.dbdemo.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-06T21:21:00" hostname="codespaces-f71e5e" time="0.052">
+  <properties/>
+  <testcase name="appUnitTest()" classname="cs1530.dbdemo.AppTest" time="0.052"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
